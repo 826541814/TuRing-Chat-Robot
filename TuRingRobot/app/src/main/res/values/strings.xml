@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="username">用户名</string>
+    <string name="passwd">密码</string>
+    <string name="repasswd">重复密码</string>
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+    <string name="goback">返回</string>
+    <string name="userset">用户设置</string>
+    <string name="newpasswd">新密码</string>
+    <string name="newrepasswd">重复新密码</string>
+    <string name="quit">退出</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="number">手机号</string>
+    <string name="text">内容</string>
+    <string name="send">点击发送</string>
+    <string name="xiaoxi">消息</string>
+</resources>
